@@ -1,2 +1,5 @@
 developer 1 code
-developer 1 code -another change
+<<<<<<< HEAD
+=======
+developer 2 code
+>>>>>>> 23ff5c5bcff6c60c1ca9b12428b3bb0c55b42da5
